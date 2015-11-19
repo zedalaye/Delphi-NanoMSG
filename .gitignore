@@ -1,0 +1,6 @@
+__history
+Win32
+*.~*
+*.dsk
+*.local
+*.identcache
